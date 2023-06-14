@@ -32,6 +32,12 @@
       "languageVersion": "2.12"
     },
     {
+      "name": "cupertino_icons",
+      "rootUri": "file:///Users/nizamuddinshamrat/.pub-cache/hosted/pub.dev/cupertino_icons-1.0.5",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "fake_async",
       "rootUri": "file:///Users/nizamuddinshamrat/.pub-cache/hosted/pub.dev/fake_async-1.3.1",
       "packageUri": "lib/",
@@ -45,9 +51,9 @@
     },
     {
       "name": "flutter_lints",
-      "rootUri": "file:///Users/nizamuddinshamrat/.pub-cache/hosted/pub.dev/flutter_lints-1.0.4",
+      "rootUri": "file:///Users/nizamuddinshamrat/.pub-cache/hosted/pub.dev/flutter_lints-2.0.1",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "2.17"
     },
     {
       "name": "flutter_test",
@@ -63,9 +69,9 @@
     },
     {
       "name": "lints",
-      "rootUri": "file:///Users/nizamuddinshamrat/.pub-cache/hosted/pub.dev/lints-1.0.1",
+      "rootUri": "file:///Users/nizamuddinshamrat/.pub-cache/hosted/pub.dev/lints-2.0.1",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "2.17"
     },
     {
       "name": "matcher",
@@ -122,6 +128,12 @@
       "languageVersion": "2.18"
     },
     {
+      "name": "sunmi_printer_plus",
+      "rootUri": "file:///Users/nizamuddinshamrat/.pub-cache/hosted/pub.dev/sunmi_printer_plus-2.1.01",
+      "packageUri": "lib/",
+      "languageVersion": "2.15"
+    },
+    {
       "name": "term_glyph",
       "rootUri": "file:///Users/nizamuddinshamrat/.pub-cache/hosted/pub.dev/term_glyph-1.2.1",
       "packageUri": "lib/",
@@ -140,13 +152,13 @@
       "languageVersion": "2.14"
     },
     {
-      "name": "sunmi_printer_plus",
+      "name": "summi_printer_nizam",
       "rootUri": "../",
       "packageUri": "lib/",
-      "languageVersion": "2.15"
+      "languageVersion": "2.19"
     }
   ],
-  "generated": "2023-06-14T16:20:54.721016Z",
+  "generated": "2023-06-14T19:13:36.463205Z",
   "generator": "pub",
   "generatorVersion": "2.19.6"
 }
